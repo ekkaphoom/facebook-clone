@@ -1,5 +1,8 @@
 module.exports = {
   images: {
-    domains: []
+    domains: [
+      'links.papareact.com',
+      'platform-lookaside.fbsbx.com'
+    ]
   }
 }
