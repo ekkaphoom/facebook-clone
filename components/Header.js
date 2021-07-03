@@ -44,7 +44,6 @@ const Header = () => {
           <HeaderIcon Icon={UserGroupIcon} />
         </div>
       </div>
-
       {/* right */}
       <div className='flex items-center sm:space-x-2 justify-end'>
         {/* profile pic */}
