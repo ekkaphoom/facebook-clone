@@ -7,7 +7,6 @@ import {
   HomeIcon,
   UserGroupIcon,
   ViewGridIcon,
-  MusicNoteIcon
 } from '@heroicons/react/solid';
 
 import {
@@ -55,7 +54,7 @@ const Header = () => {
         <p className='whitespace-norow font-semi-bold pr-3'>{session.user.name}</p>
         <ViewGridIcon className="icon" />
         <ChatIcon className="icon" />
-        <MusicNoteIcon className="icon" />
+        <BellIcon className="icon" />
         <ChevronDownIcon className="icon" />
       </div>
     </div>
